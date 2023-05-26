@@ -9,4 +9,4 @@
 ### 📫 How to reach me: 
 -Discord: Axxu.#6666
 ### 📖 My top languages:
-(https://github-readme-stats.vercel.app/api/top-langs/?username=AxxuDEV&layout=compact)](https://github.com/AxxuDEV)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxxuDEV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
