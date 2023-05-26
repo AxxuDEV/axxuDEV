@@ -8,4 +8,4 @@
 -more lua
 ### 📫 How to reach me: 
 -Discord: Axxu.#6666
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/AxxuDEV)
